@@ -1,5 +1,6 @@
 # LichessStatistics
 
+A web app that uses the lichess Api to do statistics, helping you stenghtening your repertoire.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
 ## Development server
